@@ -3,13 +3,13 @@
  I’ll show you here how you can start building an AI-based recruitment platform. Here I am using the Resume dataset from Kaggle to make a NLP model.
 
 ## The following are the concepts, tools, and libraries that I used to build this prototype:
-Semantic search.
-Embeddings.
-Facebook Faiss.
-Hugginface’s Transformers.
-Huggingface’s datasets.
-Openai’s GPT-3.
-A resume dataset hosted on Kaggle.
+    Semantic search.
+    Embeddings.
+    Facebook Faiss.
+    Hugginface’s Transformers.
+    Huggingface’s datasets.
+    Openai’s GPT-3.
+    A resume dataset hosted on Kaggle.
 
 ## References
    https://medium.com/sounds-klever/ill-show-you-here-how-you-can-start-building-an-ai-based-recruitment-platform-933f10b94af4
